@@ -1,0 +1,13 @@
+{
+    "Accept": "application/json, text/plain, */*",
+    "Host": "counselor.swu.edu.cn",
+    "Proxy-Connection": "keep-alive",
+    "Origin": "http://counselor.swu.edu.cn",
+    "User-Agent": "Mozilla/5.0 (Linux; U; Android 10; zh-CN; HD1910 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.1.161 Mobile Safari/537.36 AliApp(DingTalk/6.3.20) com.alibaba.android.rimet/22556827 Channel/227200 language/zh-CN abi/32 UT4Aplus/0.2.25 colorScheme/light",
+    "Referer": "http://counselor.swu.edu.cn/",
+    "Accept-Encoding": "gzip,deflate",
+    "Accept-Language": "zh-CN,en-US;q=0.8",
+    "Content-Type": "application/json;charset=UTF-8",
+    "fighter-auth-token": null,
+    "X-Requested-With":"com.alibaba.android.rimet"
+}
